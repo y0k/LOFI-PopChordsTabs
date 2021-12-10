@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Made by Kirill E.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<!--    <string name="Fragment2">Fragment2</string>-->
+    <string name="ActivityMain">ActivityMain</string>
+    <string name="ActivitySlave">ActivitySlave</string>
+    <!--<string name="fragment3">Fragment3</string>
+    <string name="fragment1">Fragment1</string>
+    <string name="fragment2">fragment2</string>-->
+</resources>
